@@ -12,6 +12,6 @@ For this individual final exam, I had to utilize machine learning in order to pr
 
 # Group Assignment: small recreation of the Gu et al. (2020) paper 
 
-This project was part of the course Data science for finance at Tilburg University, for the Master of Science in Finance. I wrote this code in collaboration with Marc Stam. The obtained final score was a 10/10.
+This project was part of the course Data science for finance at Tilburg University, for the Master of Science in Finance. I wrote this code in collaboration with Marc Stam. The obtained final score was a 10/10. Data could not be uploaded since file size is too large, if interested please contact me through my e-mail. 
 
 
