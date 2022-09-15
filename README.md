@@ -3,7 +3,7 @@
 * 👋 Hi, I’m @KhalidAmine
 * 👀 I’m interested in Finance, Machine Learning, and Data Science
 * 🌱 I studied a Master of Science in Finance at Tilburg University
-* 💻 Within this repository, you can find my finished projects 
+* 💻 Within this repository, you can find my finished school projects regarding Data Science
 * 📫 You can reach me at khalid.amine008@gmail.com
 
 # Final Exam: predicting day-ahead electricity prices
